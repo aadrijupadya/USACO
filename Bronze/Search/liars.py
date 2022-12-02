@@ -1,14 +1,4 @@
-# import math
-# n = int(input())
-# metalist = []
-# for i in range(n):
-#     a = input().split()
-#     metalist.append(a)
 
-# for i in metalist:
-#     liars = 0
-#     for a,b in i:
-#         if a == 'G':
 import math
 pos = []
 for i in range(int(input())):
